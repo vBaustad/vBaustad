@@ -8,8 +8,8 @@ This profile is a mix of personal projects and experiments I've worked on.
 Always exploring, always learning.
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vbaustad&theme=radical" width="410" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vbaustad&show_icons=true&theme=radical" width="410" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vbaustad&theme=radical" width="410" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vbaustad&show_icons=true&theme=radical" width="410" height="160" />
 </p>
 
 
@@ -17,6 +17,7 @@ Always exploring, always learning.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbaustad&layout=compact&theme=radical" />
 </div>
 
+##
 
 <div align="center">
   <!-- Languages -->
