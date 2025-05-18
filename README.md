@@ -9,10 +9,9 @@ Always exploring, always learning.
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vbaustad&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vbaustad&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vbaustad&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vbaustad&theme=radical" width="400"/>
 </p>
-
 
 
 
